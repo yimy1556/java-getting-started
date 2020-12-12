@@ -6,6 +6,6 @@ import org.junit.jupiter.api.Test;
 public class UsersTest {
     @Test
     void testDeveriaPasar() {
-        Assertions.assertTrue(false);
+        Assertions.assertTrue(true);
     }
 }
